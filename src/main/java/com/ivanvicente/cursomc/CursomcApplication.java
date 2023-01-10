@@ -1,4 +1,4 @@
-package com.ivanvicente;
+package com.ivanvicente.cursomc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
